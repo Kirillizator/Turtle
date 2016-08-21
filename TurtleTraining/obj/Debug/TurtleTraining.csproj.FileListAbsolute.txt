@@ -1,0 +1,8 @@
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\bin\Debug\TurtleTraining.exe.config
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.csprojResolveAssemblyReference.cache
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\bin\Debug\TurtleTraining.exe
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\bin\Debug\TurtleTraining.pdb
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\bin\Debug\SmallBasicLibrary.dll
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\bin\Debug\SmallBasicLibrary.xml
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.exe
+F:\Develop\C#BASIC\TurtleTraining\TurtleTraining\obj\Debug\TurtleTraining.pdb

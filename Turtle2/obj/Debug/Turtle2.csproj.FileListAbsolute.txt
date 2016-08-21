@@ -1,0 +1,8 @@
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\bin\Debug\Turtle2.exe.config
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\bin\Debug\Turtle2.exe
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\bin\Debug\Turtle2.pdb
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\bin\Debug\SmallBasicLibrary.dll
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\bin\Debug\SmallBasicLibrary.xml
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\obj\Debug\Turtle2.exe
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\obj\Debug\Turtle2.pdb
+F:\Develop\C#BASIC\TurtleTraining\Turtle2\obj\Debug\Turtle2.csprojResolveAssemblyReference.cache
